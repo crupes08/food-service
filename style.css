@@ -1,0 +1,136 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.color {
+    color: orange;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 15px 30px;
+
+    color: white;
+    font-weight: 700;
+    border-radius: 20px;
+}
+
+.blog-1 {
+    display: flex;
+
+}
+
+.haif-width {
+    width: 50%;
+    padding: 10px;
+}
+
+.section-2 {}
+
+.blog2 {
+    display: flex;
+    background-image: url(eat-healthy-main/images/shapes/7.png);
+    height: 500px;
+}
+
+
+
+.box img {
+    width: 44%;
+    padding-left: 20%;
+    padding-top: 7%;
+
+}
+
+.box {
+    width: 50%;
+}
+
+.box-2 {
+    width: 450px;
+    padding-top: 10%;
+    padding-left: 100px;
+
+
+}
+
+.section-3 {}
+
+.my-recipie {
+    width: 600px;
+    text-align: center;
+    padding-left: 400px;
+}
+
+.blog3 {
+    margin-left: 45px;
+}
+
+.item {
+    width: 377px;
+    float: left;
+    margin-right: 40px;
+    background-color: white;
+    box-shadow: 10px 10px 10px 10px #aaaaaa;
+    border-radius: 5%;
+    padding-left: 1px;
+    padding-top: 5px;
+    text-align: center;
+}
+
+.item img {
+    border-radius: 5%;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+.section-4 {}
+
+.blog4 {
+    width: 1239px;
+    height: 226px;
+    background-color: white;
+    box-shadow: 10px 10px 10px 10px #aaaaaa;
+    border-radius: 10px;
+    margin-top: 500px;
+    margin-left: 45px;
+}
+
+.social {
+    float: left;
+    margin-left: 100px;
+    padding-left: 100px;
+    text-align: justify;
+
+}
+
+.section-5 {}
+
+.blog5 {
+    width: 1440px;
+    height: 226px;
+    background-color: #0B0D17;
+    text-align: center;
+    padding-top: 30px;
+    margin-top: 70px;
+}
+
+.blog5 p {
+    color: white;
+}
+
+.orange {
+    color: orange;
+
+}
+
+.gray {
+    color: #5B5B5B;
+}
